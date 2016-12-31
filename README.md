@@ -19,7 +19,8 @@ Copy accepted licenses from the development machine`$ANDROID_HOME/licenses` to p
   ```
 
 * The output folder is `app/build/outputs/`
-* If it is possible cache `.gradle` folder and sdk tools.
+* If it is possible cache `.gradle` folder and sdk tools.  
+  
   ```console
   $ mkdir -p .gradle/build-tools
   $ mkdir -p .gradle/platforms
